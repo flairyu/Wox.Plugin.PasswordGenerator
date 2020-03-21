@@ -1,0 +1,12 @@
+{
+    "ID":"88430272FEF8439090F8A7D3F88D27C9",
+    "ActionKeyword":"passwd",
+    "Name":"Password",
+    "Description":"Password generator",
+    "Author":"yxb",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"https://github.com/flairyu/Wox.Plugin.PasswordGenerator",
+    "IcoPath":"Images\\walle.png",
+    "ExecuteFileName":"main.py"
+}
